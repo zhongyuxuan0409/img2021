@@ -1,0 +1,10 @@
+.ncyu{
+  position:absolute;
+  top:20px;
+  left:20px;
+  width:200px;
+  height:100px;
+  background:green;
+  font-size:70px;
+  color:white;
+}
